@@ -1,3 +1,4 @@
+![ABHISHEK PIC](https://user-images.githubusercontent.com/117310701/218946099-70367b31-a179-4660-b119-7112b6106deb.jpg)
 # Random-Forest
 Using Random Forest to prepare a model on fraud data  treating those who have taxable_income &lt;= 30000 as "Risky" and others are "Good"
 
